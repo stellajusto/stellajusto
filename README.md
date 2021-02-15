@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stellajusto
-- 👀 I’m interested in Python, R, SQL, Node.JS and best practices in analytics stuff.
+- 👀 I’m interested in Python, R, SQL, Node.JS and in best practices in analytics stuff.
 - 📫 How to reach me: stellajusto@gmail.com
 
 <!---
